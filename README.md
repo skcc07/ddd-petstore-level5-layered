@@ -17,3 +17,5 @@ mvn spring-boot:run
 ## 다음: Spring 프레임워크를 통한 Infra Layer 의 자동생성
 - JPA를 통한 Database Input/Output Adapter 자동생성
 - Spring Data REST 를 통한 REST API Input/Output Adaptor 자동생성
+
+- https://github.com/msa-school/ddd-petstore-level6-layered-spring-jpa
